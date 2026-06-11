@@ -1,123 +1,38 @@
 # Hi, I'm Abhilash Kumar 👋
 
-### Full Stack Developer | MERN Stack | React Native | AI Applications
+### Full Stack Developer | MERN Stack | React Native | AI Enthusiast
 
-I'm a Full Stack Developer passionate about building scalable web and mobile applications that solve real-world problems. I enjoy working across the entire development lifecycle—from creating responsive user interfaces to designing backend systems and integrating AI-powered features.
+Passionate Full Stack Developer with experience building web and mobile applications using the MERN stack, React Native, and AI technologies. I enjoy creating scalable solutions, integrating intelligent features, and solving real-world problems through technology.
 
----
+## 🚀 Skills
 
-## 🚀 What I Do
+**Frontend:** React, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 
-* Build modern web applications using the MERN Stack
-* Develop cross-platform mobile apps with React Native
-* Integrate AI capabilities using OpenAI APIs
-* Create real-time applications with Socket.IO
-* Design scalable REST APIs and database architectures
-* Perform data analysis and visualization using Python
+**Backend:** Node.js, Express.js, FastAPI
 
----
+**Databases:** MongoDB, MySQL, Firebase
 
-## 🛠️ Tech Stack
+**Programming Languages:** Java, Python, JavaScript, TypeScript
 
-### Frontend
+**Tools & Technologies:** Git, GitHub, Socket.IO, OpenAI API, Power BI
 
-* React.js
-* React Native
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* Node.js
-* Express.js
-* FastAPI
-
-### Databases
-
-* MongoDB
-* MySQL
-* Firebase
-
-### AI & Data
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* TensorFlow
-* OpenAI API
-
-### Tools
-
-* Git
-* GitHub
-* Socket.IO
-* Google Cloud
-* Power BI
-
----
-
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 ### Fluent Flow
 
-AI-powered communication skill development platform designed to improve English fluency through:
+An AI-powered communication skill improvement platform featuring:
 
-* AI-driven grammar and communication feedback
+* AI-based grammar feedback
 * Interactive learning modes
-* Gamification system (XP, Streaks, Leaderboards)
-* Real-time performance tracking
-* Personalized learning experience
+* XP, streaks, and leaderboards
+* Real-time progress tracking
 
-### AI Job Finder
+## 📚 Currently Learning
 
-Smart job recommendation platform that matches users with relevant opportunities using AI-based role analysis.
-
-### Data Analytics Projects
-
-Built dashboards and analytical solutions using:
-
-* Python
-* Pandas
-* Power BI
-* Data Visualization Techniques
-
-### Real-Time Applications
-
-Developed real-time systems using Socket.IO with features such as:
-
-* Live Messaging
-* Presence Tracking
-* Instant Notifications
-* Low-Latency Communication
-
----
-
-## 💼 Experience Highlights
-
-* Full Stack Development
-* AI Application Development
-* Data Analytics
-* Cyber Security Internship
-* API Development
-* Performance Optimization
-* Secure Application Design
-
----
-
-## 📈 Current Focus
-
-* Advanced Data Structures & Algorithms
+* Data Structures & Algorithms
 * System Design
-* AI Agent Development
-* Scalable Backend Architectures
-* Open Source Contributions
-
----
+* AI Agents
+* Advanced Full Stack Development
 
 ## 📫 Connect With Me
 
@@ -126,6 +41,4 @@ Developed real-time systems using Socket.IO with features such as:
 * GitHub: github.com/abhilashkumar22
 * Email: [abhilashkumarjakkula78@gmail.com](mailto:abhilashkumarjakkula78@gmail.com)
 
----
-
-*"Building impactful products through code, AI, and continuous learning."*
+*"Always learning, always building."*
